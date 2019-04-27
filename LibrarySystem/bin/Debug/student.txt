@@ -1,0 +1,29 @@
+100000	Antony Wijaya	L	a434@yahoo.com
+100001	Leo Gunawan	L	l4545@hotmail.com
+100002	Fiona Alberto	P	fiona_al@gmail.com
+100003	Roni Sato	L	roni@gmail.com
+100009	Kelvin		L	kri@ya.co
+100020	Gunardi Iko	L	gun_iko@yahoo.com
+100021	Alvin		L	al@a.c
+100022	David		L	dapid@sur.co
+100025	Lenny Santoso	P	lenny_santoso@gmail.com
+100026	Jonas Kawi	L	jonas_k344@hotmail.com
+100028	Susan Santoso	P	susan_santoso@gmail.com
+100100	Johan Gunawan	L	jgunawan@yahoo.com
+100101	Lenny Setiawati	P	lennysetiawati92@gmail.com
+111100	abcdefghijklmnopqrstuvwxyzabcde	L	a@A.c
+111111	a	P	a@a.c
+111113	abcdefghijklmnop	L	a@a.c
+123123	cabe	p	l@gmail.com
+990990	hello	P	hello@gmail.com
+990009	hello2	L	hello2@gmail.com
+880112	helllo	P	llll@gmail.c
+123457	hello	P	llg@gmail.com
+890345	olleh	L	hello@gmail.com
+889900	lloeh	L	pp@gmail.com
+909090	IAm90	P	Iam90@h.com
+890123	Calista	P	m@n.com
+890000	xxx	L	xxx@g.com
+123456	ll	p	l@j.com
+789123	lll	L	l@l.com
+1092812	ll	P	l@k.com

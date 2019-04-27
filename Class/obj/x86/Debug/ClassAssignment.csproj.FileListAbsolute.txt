@@ -1,0 +1,10 @@
+/Users/calista/Documents/Programs/C#/ClassAssignment/bin/Debug/ClassAssignment.exe
+/Users/calista/Documents/Programs/C#/ClassAssignment/bin/Debug/ClassAssignment.pdb
+/Users/calista/Documents/Programs/C#/ClassAssignment/obj/x86/Debug/ClassAssignment.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/ClassAssignment/obj/x86/Debug/ClassAssignment.exe
+/Users/calista/Documents/Programs/C#/ClassAssignment/obj/x86/Debug/ClassAssignment.pdb
+/Users/calista/Documents/Programs/C#/Class/bin/Debug/ClassAssignment.exe
+/Users/calista/Documents/Programs/C#/Class/bin/Debug/ClassAssignment.pdb
+/Users/calista/Documents/Programs/C#/Class/obj/x86/Debug/ClassAssignment.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/Class/obj/x86/Debug/ClassAssignment.exe
+/Users/calista/Documents/Programs/C#/Class/obj/x86/Debug/ClassAssignment.pdb

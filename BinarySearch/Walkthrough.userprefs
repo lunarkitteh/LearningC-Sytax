@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ECEF5145-9D68-4B29-86E8-1FAFBDD60796}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Walkthrough/Program.cs">
+    <Files>
+      <File FileName="Walkthrough/Program.cs" Line="40" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Walkthrough PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

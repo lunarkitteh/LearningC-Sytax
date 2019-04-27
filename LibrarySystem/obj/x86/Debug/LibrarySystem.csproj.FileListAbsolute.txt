@@ -1,0 +1,6 @@
+/Users/calista/Documents/Programs/C#/LibrarySystem/bin/Debug/LibrarySystem.exe
+/Users/calista/Documents/Programs/C#/LibrarySystem/bin/Debug/LibrarySystem.pdb
+/Users/calista/Documents/Programs/C#/LibrarySystem/obj/x86/Debug/LibrarySystem.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/LibrarySystem/obj/x86/Debug/LibrarySystem.exe
+/Users/calista/Documents/Programs/C#/LibrarySystem/obj/x86/Debug/LibrarySystem.pdb
+/Users/calista/Documents/Programs/C#/LibrarySystem/obj/x86/Debug/LibrarySystem.csprojResolveAssemblyReference.cache

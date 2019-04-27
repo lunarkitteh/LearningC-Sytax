@@ -1,0 +1,6 @@
+/Users/calista/Documents/Programs/C#/iDontKnow/iDontKnow/bin/Debug/iDontKnow.exe
+/Users/calista/Documents/Programs/C#/iDontKnow/iDontKnow/bin/Debug/iDontKnow.pdb
+/Users/calista/Documents/Programs/C#/iDontKnow/iDontKnow/obj/Debug/iDontKnow.csprojResolveAssemblyReference.cache
+/Users/calista/Documents/Programs/C#/iDontKnow/iDontKnow/obj/Debug/iDontKnow.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/iDontKnow/iDontKnow/obj/Debug/iDontKnow.exe
+/Users/calista/Documents/Programs/C#/iDontKnow/iDontKnow/obj/Debug/iDontKnow.pdb

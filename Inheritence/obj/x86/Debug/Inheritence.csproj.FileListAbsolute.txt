@@ -1,0 +1,10 @@
+/Users/calista/Documents/Programs/Inheritence/obj/x86/Debug/Inheritence.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/Inheritence/bin/Debug/Inheritence.exe
+/Users/calista/Documents/Programs/Inheritence/bin/Debug/Inheritence.pdb
+/Users/calista/Documents/Programs/Inheritence/obj/x86/Debug/Inheritence.exe
+/Users/calista/Documents/Programs/Inheritence/obj/x86/Debug/Inheritence.pdb
+/Users/calista/Documents/Programs/C#/Inheritence/bin/Debug/Inheritence.exe
+/Users/calista/Documents/Programs/C#/Inheritence/bin/Debug/Inheritence.pdb
+/Users/calista/Documents/Programs/C#/Inheritence/obj/x86/Debug/Inheritence.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/Inheritence/obj/x86/Debug/Inheritence.exe
+/Users/calista/Documents/Programs/C#/Inheritence/obj/x86/Debug/Inheritence.pdb

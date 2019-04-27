@@ -1,0 +1,5 @@
+/Users/calista/Documents/Programs/C#/Polymorphism/OverrideFunction/bin/Debug/OverrideFunction.exe
+/Users/calista/Documents/Programs/C#/Polymorphism/OverrideFunction/bin/Debug/OverrideFunction.pdb
+/Users/calista/Documents/Programs/C#/Polymorphism/OverrideFunction/obj/x86/Debug/OverrideFunction.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/Polymorphism/OverrideFunction/obj/x86/Debug/OverrideFunction.exe
+/Users/calista/Documents/Programs/C#/Polymorphism/OverrideFunction/obj/x86/Debug/OverrideFunction.pdb

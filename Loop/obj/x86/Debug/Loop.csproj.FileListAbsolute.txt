@@ -1,0 +1,5 @@
+/Users/calista/Documents/Programs/C#/Loop/obj/x86/Debug/Loop.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/Loop/obj/x86/Debug/Loop.exe
+/Users/calista/Documents/Programs/C#/Loop/bin/Debug/Loop.exe
+/Users/calista/Documents/Programs/C#/Loop/bin/Debug/Loop.pdb
+/Users/calista/Documents/Programs/C#/Loop/obj/x86/Debug/Loop.pdb

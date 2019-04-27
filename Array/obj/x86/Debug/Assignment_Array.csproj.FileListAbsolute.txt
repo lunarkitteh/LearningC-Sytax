@@ -1,0 +1,8 @@
+/Users/calista/Documents/Programs/C#/Assignment_Array/bin/Debug/Assignment_Array.exe
+/Users/calista/Documents/Programs/C#/Assignment_Array/bin/Debug/Assignment_Array.exe.mdb
+/Users/calista/Documents/Programs/C#/Assignment_Array/obj/x86/Debug/Assignment_Array.exe
+/Users/calista/Documents/Programs/C#/Assignment_Array/obj/x86/Debug/Assignment_Array.exe.mdb
+/Users/calista/Documents/Programs/C#/Array/bin/Debug/Assignment_Array.exe
+/Users/calista/Documents/Programs/C#/Array/bin/Debug/Assignment_Array.exe.mdb
+/Users/calista/Documents/Programs/C#/Array/obj/x86/Debug/Assignment_Array.exe
+/Users/calista/Documents/Programs/C#/Array/obj/x86/Debug/Assignment_Array.exe.mdb

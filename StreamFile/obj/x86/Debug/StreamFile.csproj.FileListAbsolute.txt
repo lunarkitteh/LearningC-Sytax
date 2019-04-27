@@ -1,0 +1,5 @@
+/Users/calista/Documents/Programs/C#/StreamFile/obj/x86/Debug/StreamFile.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/StreamFile/bin/Debug/StreamFile.exe
+/Users/calista/Documents/Programs/C#/StreamFile/bin/Debug/StreamFile.pdb
+/Users/calista/Documents/Programs/C#/StreamFile/obj/x86/Debug/StreamFile.exe
+/Users/calista/Documents/Programs/C#/StreamFile/obj/x86/Debug/StreamFile.pdb

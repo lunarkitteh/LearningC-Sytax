@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8A130560-4551-4AB2-9C8E-4D7AAF32D7A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MenuPeminjaman.cs">
+    <Files>
+      <File FileName="Program.cs" Line="19" Column="6" />
+      <File FileName="MenuBuku.cs" Line="91" Column="182" />
+      <File FileName="ReadFiles.cs" Line="49" Column="30" />
+      <File FileName="MenuPeminjaman.cs" Line="371" Column="8" />
+      <File FileName="MenuMurid.cs" Line="131" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LibrarySystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

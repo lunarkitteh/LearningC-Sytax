@@ -1,0 +1,5 @@
+/Users/calista/Documents/Programs/C#/SecureString/bin/Debug/SecureString.exe
+/Users/calista/Documents/Programs/C#/SecureString/bin/Debug/SecureString.pdb
+/Users/calista/Documents/Programs/C#/SecureString/obj/x86/Debug/SecureString.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/SecureString/obj/x86/Debug/SecureString.exe
+/Users/calista/Documents/Programs/C#/SecureString/obj/x86/Debug/SecureString.pdb

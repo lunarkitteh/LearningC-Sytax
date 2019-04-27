@@ -1,0 +1,10 @@
+/Users/calista/Documents/Programs/C#/LevenshteinAlgorithm/obj/x86/Debug/LevenshteinAlgorithm.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/LevenshteinAlgorithm/bin/Debug/LevenshteinAlgorithm.exe
+/Users/calista/Documents/Programs/C#/LevenshteinAlgorithm/bin/Debug/LevenshteinAlgorithm.pdb
+/Users/calista/Documents/Programs/C#/LevenshteinAlgorithm/obj/x86/Debug/LevenshteinAlgorithm.exe
+/Users/calista/Documents/Programs/C#/LevenshteinAlgorithm/obj/x86/Debug/LevenshteinAlgorithm.pdb
+/Users/calista/Documents/Programs/C#/Levenshtein Distance/obj/x86/Debug/LevenshteinAlgorithm.csproj.CoreCompileInputs.cache
+/Users/calista/Documents/Programs/C#/Levenshtein Distance/obj/x86/Debug/LevenshteinAlgorithm.exe
+/Users/calista/Documents/Programs/C#/Levenshtein Distance/obj/x86/Debug/LevenshteinAlgorithm.pdb
+/Users/calista/Documents/Programs/C#/Levenshtein Distance/bin/Debug/LevenshteinAlgorithm.exe
+/Users/calista/Documents/Programs/C#/Levenshtein Distance/bin/Debug/LevenshteinAlgorithm.pdb

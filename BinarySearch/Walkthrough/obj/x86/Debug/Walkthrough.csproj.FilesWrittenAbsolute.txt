@@ -1,0 +1,10 @@
+/Users/calista/Desktop/Walkthrough/Walkthrough/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/calista/Desktop/Walkthrough/Walkthrough/bin/Debug/Walkthrough.exe.mdb
+/Users/calista/Desktop/Walkthrough/Walkthrough/bin/Debug/Walkthrough.exe
+/Users/calista/Desktop/Walkthrough/Walkthrough/obj/x86/Debug/Walkthrough.exe
+/Users/calista/Desktop/Walkthrough/Walkthrough/obj/x86/Debug/Walkthrough.exe.mdb
+/Users/calista/Documents/Programs/C#/Walkthrough/Walkthrough/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/calista/Documents/Programs/C#/Walkthrough/Walkthrough/bin/Debug/Walkthrough.exe.mdb
+/Users/calista/Documents/Programs/C#/Walkthrough/Walkthrough/bin/Debug/Walkthrough.exe
+/Users/calista/Documents/Programs/C#/Walkthrough/Walkthrough/obj/x86/Debug/Walkthrough.exe
+/Users/calista/Documents/Programs/C#/Walkthrough/Walkthrough/obj/x86/Debug/Walkthrough.exe.mdb
